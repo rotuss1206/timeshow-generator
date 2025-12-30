@@ -1,0 +1,11 @@
+DB update OK: updated  rows
+DB update OK: updated  rows
+DB update OK: updated  rows
+DB update OK: updated  rows
+DB update OK: updated  rows
+DB update OK: updated  rows
+DB update OK: updated  rows
+DB insert OK: ID = 223 | Query: INSERT INTO `timeshow_parameters` (`timeshow_name`, `input_table_url`, `input_table_lable`, `audio_file_url`, `audio_file_lable`, `user_name`, `user_id`) VALUES ('111', '', '', '', '', ' ', 0)
+DB update OK: updated  rows
+DB insert OK: ID = 224 | Query: INSERT INTO `timeshow_parameters` (`timeshow_name`, `input_table_url`, `input_table_lable`, `audio_file_url`, `audio_file_lable`, `user_name`, `user_id`) VALUES ('111', '', '', '', '', 'Alexander ', 4)
+DB update OK: updated  rows
